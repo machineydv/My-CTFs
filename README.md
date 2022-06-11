@@ -18,5 +18,5 @@ Some CTF maybe password protected. In that case I will leave link of online chal
 * Looking at source code is full of spoilers, don't!
 
 ## Need Hint
-* Discord Username: **machineydv#3836**
+* Discord Username: **machineyadav#7097**
 * Discord Server:  [Discord](https://discord.gg/ejcswge)
